@@ -35,4 +35,6 @@ $(document).ready(function() {
     $('#section-hmu').removeClass('invisible');
   })
 
+//glitter cursor starts below
+
 });

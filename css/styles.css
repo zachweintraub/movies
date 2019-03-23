@@ -2,8 +2,6 @@ body {
   font-family: monospace;
 }
 
-
-
 #aboutcontent {
   padding-left: 7%;
   padding-top: 10%;
@@ -35,7 +33,7 @@ body {
 }
 
 #section-made p, #section-played p {
-  padding-bottom: 4%;
+  padding-bottom: 3%;
 }
 
 #hmu2 {
@@ -44,4 +42,8 @@ body {
 
 #welcome-mark {
   width: 640px;
+}
+
+#section-played * {
+  padding: 0;
 }
