@@ -1,0 +1,47 @@
+body {
+  font-family: monospace;
+}
+
+
+
+#aboutcontent {
+  padding-left: 7%;
+  padding-top: 10%;
+  padding-bottom: 5%;
+}
+
+#section-played img {
+  width: 640px;
+}
+
+[id^='section'] {
+  padding-top: 8%;
+  padding-left: 5%;
+}
+
+.column {
+  float:left;
+  width: 25%;
+  text-align: center;
+  padding-top: 2%;
+}
+
+.invisible {
+  display: none;
+}
+
+.selected {
+  font-weight: bold;
+}
+
+#section-made p, #section-played p {
+  padding-bottom: 4%;
+}
+
+#hmu2 {
+  text-decoration: underline;
+}
+
+#welcome-mark {
+  width: 640px;
+}
