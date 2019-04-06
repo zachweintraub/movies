@@ -24,6 +24,10 @@ body {
   padding-top: 2%;
 }
 
+.hover:hover {
+  cursor: pointer;
+}
+
 .invisible {
   display: none;
 }
